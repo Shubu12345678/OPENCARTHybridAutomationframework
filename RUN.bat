@@ -1,0 +1,2 @@
+cd C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework
+mvn test

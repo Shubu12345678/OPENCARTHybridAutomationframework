@@ -1,0 +1,282 @@
+00:36:44.169 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:36:44.229 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+00:36:44.265 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:36:44.267 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:36:44.269 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:36:44.308 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+00:36:44.348 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT *****
+00:36:48.171 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT *****
+00:36:48.203 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT *****
+00:36:51.849 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT *****
+00:36:54.923 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT *****
+00:37:06.869 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT *****
+00:37:06.869 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT *****
+00:37:11.420 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT *****
+13:32:52.934 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+13:32:53.369 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+13:33:00.065 [main] INFO  testCases.TC001_AccountregistrationTest - ********* Starting TC001_AccountRegistrationTest
+13:33:00.257 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on my account link
+13:33:00.912 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Register link
+13:33:00.914 [main] INFO  testCases.TC001_AccountregistrationTest - providing customer details
+13:33:02.466 [main] INFO  testCases.TC001_AccountregistrationTest - Validating expected message
+13:33:02.519 [main] INFO  testCases.TC001_AccountregistrationTest - ***Finished TC001_Account registration test
+13:33:05.787 [main] INFO  testCases.TC002_LoginTest - *****Starting TC_002_LoginTest
+13:33:07.591 [main] INFO  testCases.TC002_LoginTest - *********Finishaeed TC_002_Logintest*******
+13:33:45.447 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+13:33:45.813 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+13:33:49.303 [main] INFO  testCases.TC001_AccountregistrationTest - ********* Starting TC001_AccountRegistrationTest
+13:33:49.443 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on my account link
+13:33:50.070 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Register link
+13:33:50.073 [main] INFO  testCases.TC001_AccountregistrationTest - providing customer details
+13:33:51.718 [main] INFO  testCases.TC001_AccountregistrationTest - Validating expected message
+13:33:51.778 [main] INFO  testCases.TC001_AccountregistrationTest - ***Finished TC001_Account registration test
+16:36:36.569 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:38:11.333 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:38:12.033 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+16:38:43.480 [main] INFO  testCases.TC001_AccountregistrationTest - ********* Starting TC001_AccountRegistrationTest
+16:38:43.714 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on my account link
+16:38:45.161 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Register link
+16:38:45.162 [main] INFO  testCases.TC001_AccountregistrationTest - providing customer details
+16:38:49.439 [main] INFO  testCases.TC001_AccountregistrationTest - Validating expected message
+16:38:49.566 [main] INFO  testCases.TC001_AccountregistrationTest - ***Finished TC001_Account registration test
+16:42:50.768 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:42:51.643 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+16:43:18.763 [main] INFO  testCases.TC001_AccountregistrationTest - ********* Starting TC001_AccountRegistrationTest
+16:43:19.005 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on my account link
+16:43:24.139 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Register link
+16:43:24.145 [main] INFO  testCases.TC001_AccountregistrationTest - providing customer details
+16:43:28.039 [main] INFO  testCases.TC001_AccountregistrationTest - Validating expected message
+16:43:28.210 [main] INFO  testCases.TC001_AccountregistrationTest - ***Finished TC001_Account registration test
+16:44:44.278 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:44:44.991 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+16:45:36.286 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:45:37.226 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+16:59:33.485 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:59:34.411 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+17:04:19.967 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+17:04:20.702 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+17:33:43.330 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+17:33:43.726 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+17:40:40.749 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+17:40:41.107 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+17:44:21.849 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+17:44:22.206 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+17:49:54.331 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+17:49:54.701 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+17:51:51.584 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+17:51:51.621 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+17:52:34.369 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+17:52:34.407 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+17:53:22.565 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+17:53:22.601 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+17:55:28.033 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+17:55:28.072 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+17:58:33.632 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+17:58:33.669 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+17:58:34.019 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+18:04:28.352 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+18:04:28.387 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+18:04:28.716 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+18:05:45.478 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+18:05:45.517 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+18:09:05.644 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+18:09:05.680 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+18:09:06.008 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+18:19:54.656 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+18:19:54.692 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+18:19:55.026 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+18:23:13.876 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+18:23:13.918 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+18:23:14.244 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+18:35:00.448 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+18:35:00.558 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+18:35:00.993 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+18:47:33.743 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+18:47:33.803 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+18:47:34.297 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+18:48:04.142 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+18:48:04.207 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+18:48:04.718 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+18:50:15.639 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+18:50:15.706 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+18:50:16.328 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+23:46:00.603 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+23:46:00.783 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+23:46:01.597 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+00:36:29.052 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+00:36:29.144 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+14:05:09.185 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+14:05:09.287 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+14:07:11.891 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+14:07:12.042 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+14:07:12.757 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+14:08:37.787 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+14:08:37.853 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+14:08:38.548 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+14:48:20.481 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+14:48:20.550 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+14:48:21.154 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+15:09:00.575 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+15:09:00.649 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+15:10:34.382 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+15:10:34.452 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+15:12:02.969 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+15:12:03.026 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+15:12:03.671 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+15:38:37.247 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+15:38:37.288 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+15:38:37.626 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+15:39:31.440 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+15:39:31.480 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+15:39:31.793 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+15:42:11.053 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+15:42:11.094 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+15:42:11.393 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+15:44:28.330 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+15:44:28.371 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+15:44:28.680 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+15:46:56.106 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+15:46:56.151 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+15:46:56.452 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+15:55:21.033 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+15:55:21.073 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+15:55:21.375 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+16:01:01.889 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:01:01.931 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+16:01:02.235 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+16:02:32.955 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:02:32.994 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+16:02:33.311 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+16:14:22.667 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:14:22.706 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+16:14:23.032 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+16:15:28.023 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:15:28.061 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+16:15:28.388 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+16:40:59.376 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:40:59.441 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+16:40:59.873 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+16:42:25.733 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:42:25.801 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+16:42:26.281 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+16:47:01.216 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:47:01.305 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+16:47:02.021 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+16:47:53.220 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:47:53.278 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+16:47:54.025 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+16:48:42.104 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:48:42.160 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+16:48:42.742 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+16:51:44.090 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:51:44.147 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+16:51:44.865 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+16:53:00.283 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+16:53:00.448 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+16:53:01.166 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+17:00:10.252 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+17:00:10.353 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+17:00:10.964 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+17:02:34.387 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+17:02:34.454 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+17:02:34.948 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+17:03:48.289 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+17:03:48.355 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+17:03:49.036 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
+17:06:10.004 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml"
+17:06:10.068 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml] otherwise TestNG may fail or not work as expected.
+17:06:10.663 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Sellenium webdriver\OPENCARTHybridAutomationframework\Grouping.xml
+
